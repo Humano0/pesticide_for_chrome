@@ -1,0 +1,77 @@
+address,
+article,
+aside,
+footer,
+header,
+h1, h2, h3, h4, h5, h6,
+hgroup,
+nav,
+section {
+    outline: 1px solid red !important;
+}
+
+blockquote,
+dd,
+dl,
+div,
+dt,
+figcaption,
+figure,
+hr,
+li,
+menu,
+ol,
+p,
+pre,
+ul {
+    outline: 1px solid blue !important;
+}
+
+area,
+audio,
+img,
+map,
+track,
+video,
+embed,
+iframe,
+object,
+picture,
+portal,
+source {
+    outline: 1px solid green !important;
+}
+
+caption,
+col,
+colgroup,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    outline: 1px solid yellow !important;
+}
+
+button,
+datalist,
+fieldset,
+form,
+input,
+label,
+legend,
+meter,
+optgroup,
+option,
+outpu,
+progress,
+select,
+textarea {
+    outline: 1px solid orange !important;
+}
+
+* {
+    outline: 1px solid purple !important;
+}
